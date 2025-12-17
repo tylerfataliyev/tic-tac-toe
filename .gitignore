@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Playwright
+playwright-report/
+test-results/
+playwright/.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Personal notes
+../notes.md
+../research.md
